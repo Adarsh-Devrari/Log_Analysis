@@ -1,0 +1,8 @@
+2026-07-31 09:10:21 INFO User login successful Username=admin IP=192.168.1.10
+2026-07-31 09:12:45 WARNING Failed login Username=guest IP=192.168.1.15
+2026-07-31 09:13:02 ERROR File deleted File=salary.xlsx User=guest
+2026-07-31 09:15:11 INFO USB device connected Device=Kingston
+2026-07-31 09:17:35 WARNING Failed login Username=guest IP=192.168.1.15
+2026-07-31 09:18:22 WARNING Failed login Username=guest IP=192.168.1.15
+2026-07-31 09:19:11 INFO Chrome Started
+2026-07-31 09:20:14 ERROR Administrator privilege granted User=test
